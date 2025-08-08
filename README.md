@@ -1,1 +1,1 @@
-# mbti-samkok-quiz
+# Money Script 
